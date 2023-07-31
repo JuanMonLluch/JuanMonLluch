@@ -2,7 +2,7 @@
 
 ℹ️ I'm a programmer and an Indie-Game Developer
 
-📖 I'm currently cooperate on a multiplayer Steam game for 2022, Mannaz!
+📖 I'm currently work on severals personal projects
 
 💼 I'm looking for work in videogame industry or a stable projects like programmer
 
